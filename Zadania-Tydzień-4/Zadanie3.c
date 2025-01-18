@@ -10,7 +10,7 @@ int main()
     printf("Podaj tekst do sprawdzenia: \n");
     fgets(tekst, sizeof(tekst), stdin);
 
-    char samogloski1[18] = { 'a','A','e','E','i','I','o','O','u','U','y','Y','¹','¥','ê','Ê','ó','Ó' };
+    char samogloski1[18] = { 'a','A','e','E','i','I','o','O','u','U','y','Y','Ä…','Ä„','Ä™','Ä˜','Ã³','Ã“' };
     char spolgloski2[36] = { 'b','B','c','C','d','D','f','F','g','G','h','H','j','J','k','K','l','L','m','M','n','N','p','P','r','R','s','S','t','T','w','W','z','Z','x','X' };
 
     for (int i = 0; tekst[i] != '\0'; i++)
