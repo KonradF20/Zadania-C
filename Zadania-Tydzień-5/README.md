@@ -1,4 +1,4 @@
-### 4. Dana jest następująca funkcja rekurencyjna:
+### Zadanie 4:
 ```
 funkcja wynik(i)
       jeżeli i < 3
@@ -9,7 +9,6 @@ funkcja wynik(i)
             w przeciwnym razie
                   zwróć wynik(i - 1) mod 7
 ```
-Przeanalizuj działanie funkcji rekurencyjnej i uzupełnij poniższą tabelę.
 
 |    i     |  2  |  3  |  4  |  5  |  6  |  7  |  8  |
 |----------|-----|-----|-----|-----|-----|-----|-----|
