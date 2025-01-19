@@ -42,7 +42,7 @@ int main() {
 
     outputFile = fopen(OUTPUT_FILE, "w");
     if (outputFile == NULL) {
-        printf("Nie mo¿na otworzyc pliku %s do zapisywnaia wynikow\n", OUTPUT_FILE);
+        printf("Nie mozna otworzyc pliku %s do zapisywnaia wynikow\n", OUTPUT_FILE);
         return 1;
     }
     for (int i = 0; i < 2; i++) {
