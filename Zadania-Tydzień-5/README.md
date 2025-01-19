@@ -9,5 +9,5 @@ funkcja wynik(i)
             w przeciwnym razie
                   zwróć wynik(i - 1) mod 7
 
-    i	    2	3	4	5	6	7	8
+i	     2	3	4	5	6	7	8
 wynik(i)	1	1	3	3	5	5	9
