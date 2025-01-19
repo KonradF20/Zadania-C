@@ -13,7 +13,7 @@ funkcja wynik(i)
 |----------|-----|-----|-----|-----|-----|-----|-----|
 | wynik(i) | 1   | 1   | 3   | 3   | 5   | 5   | 9   |
 
-### Zadanie 7: Takie samo jak zadanie 5
+### Zadanie 7:  Takie samo jak zadanie 5
 
 ### Zadanie 8:
 ```
